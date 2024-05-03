@@ -4,4 +4,4 @@ you can see it online [here](https://sakineh-amiri.github.io/Temperature-convert
 
 
 
-![c to f](https://github.com/sakineh-amiri/Temperature-converter-C-F-/assets/104264925/9478a97b-b5d3-4c4a-b55e-2a4fea41a77d)
+
